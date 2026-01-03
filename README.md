@@ -17,7 +17,6 @@
 
 ### 下载安装
 
-从 [GitHub Releases](https://github.com/YOUR_USERNAME/zhuwen-writer/releases) 下载最新版本：
 - **macOS**: 下载 `.dmg` 文件
 - **Windows**: 下载 `.exe` 安装包
 
