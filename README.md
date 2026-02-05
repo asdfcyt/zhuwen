@@ -146,3 +146,6 @@
 
 欢迎提交Issue和Pull Request！
 
+
+## 致谢
+本项目基于 [Novel](https://github.com/steven-tey/novel) 进行开发。感谢原项目提供的优秀基础。
